@@ -2,10 +2,15 @@
 
 `This project is build using Lampstack`
 
-##### Preview GIF![ezgif com-gif-maker](https://user-images.githubusercontent.com/60525999/165970661-59e1aa61-a5d3-4b63-b8d2-3258219add7d.gif)
+##### Preview 
+<br>
 
 
 
-*  [ Link To Live Project](muradcade.liveblog365.com/view/login.php)
+https://user-images.githubusercontent.com/60525999/165974345-04a00d8f-d687-4edb-bf6d-199f2100d36a.mp4
+
+
+
+ [ Link To Live Project](muradcade.liveblog365.com/view/login.php)
 
 
