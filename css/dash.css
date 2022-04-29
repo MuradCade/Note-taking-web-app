@@ -1,0 +1,100 @@
+.font-bold{
+  font-weight: 600;
+}
+
+.none{
+  display: none;
+}
+
+.flex{
+  display: flex;
+ 
+ 
+}
+.btn{
+  margin-right: 20px;
+  border-radius: 10px;
+}
+
+
+
+.drop-zone{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 1200px;
+  height: 200px;
+  color: #cccccc;
+border: 4px dashed #009578;
+margin-bottom: 20px;
+cursor: pointer;
+}
+.drop-zone-prompt{
+  font-size: 18px;
+  color: gray;
+}
+
+.drop-zone:hover{
+  border: solid #009578;
+}
+
+
+.disable{
+  font-size: 16px;
+  color: gray;
+}
+
+
+.capital{
+  text-transform: capitalize;
+}
+.lowet{
+  text-transform: lowercase;
+}
+
+.space{
+  margin-right: 20px;
+}
+
+/* makes the lines of paragraph smaller */
+.card-text{
+    text-overflow: ellipsis;
+    
+    /* Needed to make it work */
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.color-100{
+    color: #3f3d56 !important;
+}
+.top-100{
+  margin-top: 100px  !important;
+  font-size: 17px;
+}
+
+.line-height{
+  line-height: 20px;
+}
+
+.right-10{
+  margin-right: 10px;
+
+}
+.arrow-back{
+  width: 30px;
+  position: absolute;
+  top: 28px;
+  left: 20px;
+  cursor: pointer;
+}
+
+.arrow-back:hover{
+ box-shadow: 10px 4px 4px  #f4f4f4;
+
+}
+
+.close-btn{
+  float: right;
+  cursor: pointer;
+}

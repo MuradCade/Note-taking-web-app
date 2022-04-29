@@ -1,0 +1,122 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+:root{
+    --primary-color:#3f3d56;
+    --secondary-color:#6c63ff;
+    --sub-color:white;
+    --main-color:#e6e6e6;
+}
+body{
+    background-color:var(--primary-color);
+}
+form{
+    margin: 70px auto;
+    /*  */
+}
+
+.main{
+    background-color:var(--main-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.login-content{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    position: relative;
+    left: 60px;
+    
+}
+.login-content input{
+    width: 295px;
+    height: 40px;
+    margin-bottom: 16px;
+    border-radius: 10px;
+    border: 3px solid var(--primary-color);
+    padding: 10px;
+    outline: none;
+    font-size: 14px;
+}
+.login-content input:hover{
+    border: 4px solid var(--secondary-color);
+}
+.login-content input:focus{
+    border: 4px solid #6c63ff;
+}
+.login-content input:active{
+    border: 2px solid #6c63ff;
+}
+.login-content label{
+    margin-bottom: 4px;
+    font-size: 17px;
+    color: var(--primary-color);
+    font-weight: 600;
+}
+.login-content button{
+    width: 289px;
+    height: 42px;
+    font-size: 18px;
+    font-weight: bold;
+    color: var(--sub-color);
+    background-color: var(--secondary-color);
+    border-radius:10px ;
+    border: none;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.login-content button:hover{
+    background-color: var(--secondary-color);
+}
+.login-content .check{
+    margin-top: 10px;
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+span{
+    margin-top: -10px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: var(--primary-color);
+}
+span a{
+    text-decoration: none;
+    margin-left: 10px;
+    color: var(--secondary-color);
+}
+.check input{
+    width: 16px;
+    position: relative;
+    top:-16px;
+    left: 32px;
+    cursor: pointer;
+   
+}
+.check span{
+    color: var(--primary-color);
+    position: relative;
+    left: 26px;
+}
+.login-img img{
+    width: 490px;
+    overflow: hidden;
+}
+.login-img{
+    position: relative;
+    left: 60px;
+}
+
+.login-text{
+    position:relative;
+    top: -40px;
+    align-items: center;
+    color: var(--secondary-color);
+    font-size: 24px;
+    left: -10px;
+}

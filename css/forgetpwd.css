@@ -1,0 +1,63 @@
+.box{
+    width: 80px;
+    height: 80px;
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+.form-group{
+    display: flex;
+    flex-direction:column ;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+p{
+    font-size: 16px ;
+    color: gray !important;
+    margin-top: -12px;
+    margin-bottom: 10px;
+}
+
+.font-bold{
+    font-weight: 600;
+    color: #23456789;
+}
+
+input{
+    width: 490px !important;
+    border: 2px solid gray !important;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.content label{
+   position: relative;
+   left: -220px;
+   margin-bottom: 10px;
+}
+
+button{
+   position: relative;
+   left: -200px;
+   margin-top: 10px;
+    
+}
+
+.font-b{
+    font-weight: 700;
+}
+
+.labels{
+    position: relative;
+    left: -190px !important;
+}
