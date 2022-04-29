@@ -1,21 +1,11 @@
 # Note Taking Web App Project
 
-`In This Project I used Php And Bootstrap`
+`This project is build using Lampstack`
 
-## forntend requirement
+##### Preview GIF![ezgif com-gif-maker](https://user-images.githubusercontent.com/60525999/165970661-59e1aa61-a5d3-4b63-b8d2-3258219add7d.gif)
 
-- design lading page
-- drag drop image
-- add voice
 
-## backend requirement
 
-- authonticate user
-- create new user
-- store and display images
-- store and display voice
-- forget password ability
+*  [ Link To Live Project](muradcade.liveblog365.com/view/login.php)
 
-### Preview
 
-![Video Preview](https://www.awesomescreenshot.com/video/8585604?key=d13c378e532672a65ba5dec6f51c9a81)
