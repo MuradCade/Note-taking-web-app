@@ -11,6 +11,3 @@ https://user-images.githubusercontent.com/60525999/165974345-04a00d8f-d687-4edb-
 
 
 
- [ Link To Live Project](muradcade.liveblog365.com/view/login.php)
-
-
